@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">O.Invernon</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Margarita">
+        <item>jamon/tomate</item>
+        <item>12€</item>
+    </string-array>
+    <string-array name="tres quesos">
+        <item>queso1/queso2</item>
+        <item>15€</item>
+    </string-array>
+    <string-array name="barbacoa">
+        <item>carne/tomate</item>
+        <item>18€</item>
+    </string-array>
+</resources>
